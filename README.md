@@ -1,4 +1,7 @@
 # mibaltoalex_lib
+
+![logo](https://avatars0.githubusercontent.com/u/7804195?v=3&amp;s=460)
+
 [![Project status](https://img.shields.io/badge/status-active-brightgreen.svg)](#status)
 
 mibaltoalex_lib is a small support library for games and applications.
