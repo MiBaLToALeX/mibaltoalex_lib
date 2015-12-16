@@ -1,5 +1,6 @@
 # mibaltoalex_lib
 [![Project status](https://img.shields.io/badge/status-active-brightgreen.svg)](#status)
+
 mibaltoalex_lib is a small support library for games and applications.
  
 # Setting Up
