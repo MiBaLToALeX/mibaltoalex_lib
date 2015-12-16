@@ -7,10 +7,8 @@
 mibaltoalex_lib is a small support library for games and applications.
  
 # Setting Up
-If you are using gradle, yo can just add this line to your dependecies:
 
-$ compile "tk.mibaltoalex:mibaltoalex_lib:1.4.5"
-Otherwise just download this as sources, and include in your project by any means you see comfortable.
+Download this as sources, and include in your project by any means you see comfortable.
 
 ### License
 mibaltoalex_lib is licensed under the [Apache 2 License](http://www.apache.org/licenses/LICENSE-2.0.html), meaning you
